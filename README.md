@@ -192,23 +192,6 @@ Hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Suthipong25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Suthipong25&show_icons=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthipong25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthipong25&layout=compact&hide_border=true" />
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's build something useful together
