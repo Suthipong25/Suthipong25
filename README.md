@@ -70,33 +70,33 @@ Hi! I'm **Suthipong Pikulyam (Dodge)** — a Computer Science graduate from **Ra
 **Languages**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,html,css&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,html,css&theme=light" />
-  <img alt="TypeScript, JavaScript, Python, Dart, Java, C#, PHP, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,html,css&theme=light" height="38" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=light" />
+  <img alt="TypeScript, JavaScript, Python, Dart, Java, C#, PHP, HTML, CSS" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=light" />
 </picture>
 
 **Frontend & Mobile**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,flutter,angular,tailwind,vite&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,flutter,angular,tailwind,vite&theme=light" />
-  <img alt="Next.js, React, Flutter, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=nextjs,react,flutter,angular,tailwind,vite&theme=light" height="38" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=light" />
+  <img alt="Next.js, React, Flutter, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=light" />
 </picture>
 
 **Backend & Databases**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,supabase,firebase,mysql,mongodb&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,supabase,firebase,mysql,mongodb&theme=light" />
-  <img alt="Node.js, Express, .NET, PostgreSQL, Supabase, Firebase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,supabase,firebase,mysql,mongodb&theme=light" height="38" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=light" />
+  <img alt="Node.js, Express, .NET, PostgreSQL, Supabase, Firebase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=light" />
 </picture>
 
 **Tools & Vision**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,git,github,docker,figma,postman,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv,git,github,docker,figma,postman,vscode&theme=light" />
-  <img alt="OpenCV, Git, GitHub, Docker, Figma, Postman, VS Code" src="https://skillicons.dev/icons?i=opencv,git,github,docker,figma,postman,vscode&theme=light" height="38" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv%2Cgit%2Cgithub%2Cdocker%2Cfigma%2Cpostman%2Cvscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv%2Cgit%2Cgithub%2Cdocker%2Cfigma%2Cpostman%2Cvscode&theme=light" />
+  <img alt="OpenCV, Git, GitHub, Docker, Figma, Postman, VS Code" src="https://skillicons.dev/icons?i=opencv%2Cgit%2Cgithub%2Cdocker%2Cfigma%2Cpostman%2Cvscode&theme=light" />
 </picture>
 
 Also using: `Google Gemini API (@google/genai)` · `SQL / PLpgSQL` · `ExcelJS / XLSX` · `Trello`
