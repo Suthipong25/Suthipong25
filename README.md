@@ -67,8 +67,36 @@ Hi! I'm **Suthipong Pikulyam (Dodge)** — a Computer Science graduate from **Ra
 
 ### Skills & Tools
 
-- **Languages:** TypeScript, JavaScript, Python, Dart, Java, C#, SQL, PHP, HTML/CSS
-- **Frontend & Mobile:** Next.js, React, Flutter, Angular, Tailwind CSS, Vite
-- **Backend:** Node.js, Express.js, ASP.NET Core (.NET)
-- **Databases:** PostgreSQL, Supabase, Firebase / Firestore, MySQL, MongoDB
-- **AI & Tools:** Google Gemini API (`@google/genai`), OpenCV, Git, GitHub, Docker, Figma, Postman, Trello
+**Languages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,html,css&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,html,css&theme=light" />
+  <img alt="TypeScript, JavaScript, Python, Dart, Java, C#, PHP, HTML, CSS" src="https://skillicons.dev/icons?i=ts,js,py,dart,java,cs,php,html,css&theme=light" height="38" />
+</picture>
+
+**Frontend & Mobile**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,flutter,angular,tailwind,vite&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,flutter,angular,tailwind,vite&theme=light" />
+  <img alt="Next.js, React, Flutter, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=nextjs,react,flutter,angular,tailwind,vite&theme=light" height="38" />
+</picture>
+
+**Backend & Databases**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,supabase,firebase,mysql,mongodb&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,supabase,firebase,mysql,mongodb&theme=light" />
+  <img alt="Node.js, Express, .NET, PostgreSQL, Supabase, Firebase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,supabase,firebase,mysql,mongodb&theme=light" height="38" />
+</picture>
+
+**Tools & Vision**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv,git,github,docker,figma,postman,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv,git,github,docker,figma,postman,vscode&theme=light" />
+  <img alt="OpenCV, Git, GitHub, Docker, Figma, Postman, VS Code" src="https://skillicons.dev/icons?i=opencv,git,github,docker,figma,postman,vscode&theme=light" height="38" />
+</picture>
+
+Also using: `Google Gemini API (@google/genai)` · `SQL / PLpgSQL` · `ExcelJS / XLSX` · `Trello`
