@@ -6,7 +6,7 @@
 
 Hi! I'm **Suthipong Pikulyam (Dodge)** — a Computer Science graduate from **Rangsit University (2026)** based in Bangkok. I build web apps, mobile apps, and practical AI tools for logistics, finance, and everyday workflows.
 
-สวัสดีครับ ผม **ดอดจ์ (สุทธิพงษ์ พิกุลแย้ม)** จบวิทยาการคอมพิวเตอร์ ม.รังสิต (2026) ชอบสร้างเว็บแอป แอปมือถือ และระบบที่ใช้ AI ช่วยลดงานซ้ำซ้อนในชีวิตจริง
+สวัสดีครับ ผม **ดอส (สุทธิพงษ์ พิกุลแย้ม)** จบวิทยาการคอมพิวเตอร์ ม.รังสิต (2026) ชอบสร้างเว็บแอป แอปมือถือ และระบบที่ใช้ AI ช่วยลดงานซ้ำซ้อนในชีวิตจริง
 
 - **Education:** B.S. in Computer Science (Digital Innovation Technology), Rangsit University · 2026
 - **Languages:** English (Fluent), Thai (Intermediate)
