@@ -4,93 +4,96 @@
 
 <br/>
 
-# 👋 Hi, I'm Dodge
-
-### Full-Stack & AI Application Developer · Bangkok, Thailand 🇹🇭
-
-*I build web apps, mobile apps, and practical AI tools for logistics, finance, and everyday workflows.*  
+*I build web apps, mobile apps, and practical AI tools for shopping intelligence, logistics, and finance.*  
 *ผมสร้างเว็บแอป แอปมือถือ และระบบ AI ที่ช่วยลดงานซ้ำซ้อนในชีวิตจริง*
 
 <br/>
 
-![Open to work](https://img.shields.io/badge/Open_to_work-Full--Stack_%C2%B7_Frontend_%C2%B7_AI_Dev-2ea44f?style=for-the-badge)
-![Location](https://img.shields.io/badge/Bangkok-Remote_OK-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-[![Email](https://img.shields.io/badge/Email-suthipong2003dos@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:suthipong2003dos@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Suthipong25-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Suthipong25)
-![Education](https://img.shields.io/badge/Rangsit_University-B.S._Computer_Science_2026-8A2BE2?style=flat-square&logo=academia&logoColor=white)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Full--Stack_%C2%B7_Frontend_%C2%B7_AI_Dev-10B981?style=for-the-badge)](mailto:suthipong2003dos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-suthipong2003dos@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suthipong2003dos@gmail.com)
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Snapshot
 
-|  |  |
-|---|---|
-| 🎓 **Education** | B.S. in Computer Science (Digital Innovation Technology), Rangsit University · 2026 |
-| 🗣️ **Languages** | English (Fluent) · Thai (Intermediate) |
-| 💼 **Focus** | Internal tools, dashboards, and AI-powered document extraction |
-| 📫 **Contact** | [suthipong2003dos@gmail.com](mailto:suthipong2003dos@gmail.com) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🎓 Education</strong><br/>
+      B.S. in Computer Science (Digital Innovation Technology)<br/>
+      <sub>Rangsit University · Class of 2026</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>🗣️ Languages &amp; Location</strong><br/>
+      English (Fluent) · Thai (Intermediate)<br/>
+      <sub>Bangkok, Thailand · Open to On-site / Remote</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🛍️ Currently Building</strong><br/>
+      <a href="https://github.com/Suthipong25/PriceLens"><strong>PriceLens</strong></a> — Thailand price intelligence monorepo<br/>
+      <sub>Next.js · Expo · Cloudflare Workers · Drizzle ORM</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>⚙️ Core Focus</strong><br/>
+      Full-Stack Web/Mobile, Internal Tools &amp; Applied AI<br/>
+      <sub>Structured PDF / slip extraction &amp; workflow automation</sub>
+    </td>
+  </tr>
+</table>
 
----
-
-## 🚀 What I'm Doing Now
-
-- 🛍️ Building **[PriceLens](https://github.com/Suthipong25/PriceLens)** — a Thailand price comparison & shopping intelligence monorepo (**Next.js**, **Expo**, **Cloudflare Workers**, **Drizzle ORM**, **PostgreSQL**)
-- 🏗️ Building internal **logistics pricing & shipment tools** with **Next.js**, **PostgreSQL / Supabase**, and **Gemini AI**
-- 🎯 Open to **Full-Stack**, **Frontend**, or **AI Application Developer** roles in Bangkok / Remote
-
----
+<br/>
 
 ## 💼 Experience
 
-<table>
-<tr>
-<td width="140" align="center">
-
-**Jan 2026 –<br/>May 2026**
-
-</td>
-<td>
-
-**Full Stack Developer Intern** · [GenInflu](https://geninflu.co)
-
-- 💳 Brand **pricing & package comparison** page so teams can compare plans clearly
-- 📊 Shareable **brand campaign report** feature for presenting results to executives
-- 🎭 **Sales Demo Mode** with demo accounts for sales presentations and client onboarding
-- ⚡ Fast **registration flow** letting influencers sign up in under 30 seconds
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <td width="160" valign="top">
+      <strong>GenInflu</strong><br/>
+      <sub><a href="https://geninflu.co">geninflu.co</a></sub><br/>
+      <sub>Jan 2026 – May 2026</sub>
+    </td>
+    <td valign="top">
+      <strong>Full Stack Developer Intern</strong>
+      <ul>
+        <li>Built the brand <strong>pricing &amp; package comparison</strong> page for clearer plan selection</li>
+        <li>Developed shareable <strong>brand campaign reports</strong> for executive presentations</li>
+        <li>Created a <strong>Sales Demo Mode</strong> with demo accounts for client pitches &amp; onboarding</li>
+        <li>Streamlined influencer signup into a <strong>fast registration flow</strong> (&lt; 30 seconds)</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
----
+<br/>
 
 ## 🛠️ Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🛍️ [PriceLens](https://github.com/Suthipong25/PriceLens)
-Smart shopping intelligence & price comparison monorepo for Thailand (Web, Expo Mobile, Cloudflare Workers API) with deterministic GTIN/EAN/MPN matching, historical price tracking & drop alerts.  
+Thailand price comparison &amp; shopping intelligence monorepo with GTIN/EAN/MPN matching, price history &amp; drop alerts.  
 <sub>แพลตฟอร์มเปรียบเทียบราคาสินค้า ติดตามประวัติราคา และแจ้งเตือนราคาตก</sub>
 
-`Next.js` `React Native` `Cloudflare Workers` `Drizzle ORM` `PostgreSQL`
+`Next.js` `Expo` `Cloudflare Workers` `PostgreSQL`
 
-[📂 View Repository](https://github.com/Suthipong25/PriceLens)
+[📂 View Repository →](https://github.com/Suthipong25/PriceLens)
 
 </td>
 <td width="50%" valign="top">
 
 ### 💰 [MoneyMate](https://github.com/Suthipong25/MoneyMate)
-Income & expense app that reads Thai bank slips and tax invoices with Gemini, catches duplicates, separates 7% VAT, exports Excel.  
-<sub>สแกนสลิปด้วย AI ตรวจสลิปซ้ำ ถอด VAT 7%</sub>
+Income &amp; expense SaaS that reads Thai bank slips and tax invoices with Gemini AI, flags duplicates, extracts 7% VAT &amp; exports Excel.  
+<sub>สแกนสลิปด้วย AI ตรวจสลิปซ้ำ ถอด VAT 7% ส่งออก Excel</sub>
 
-`Next.js` `TypeScript` `Supabase` `Gemini API` `ExcelJS`
+`Next.js` `TypeScript` `Supabase` `Gemini API`
 
-[📂 View Repository](https://github.com/Suthipong25/MoneyMate)
+[📂 View Repository →](https://github.com/Suthipong25/MoneyMate)
 
 </td>
 </tr>
@@ -98,21 +101,21 @@ Income & expense app that reads Thai bank slips and tax invoices with Gemini, ca
 <td width="50%" valign="top">
 
 ### 🥗 [Foodcal](https://github.com/Suthipong25/Foodcal)
-Cross-platform mobile app for AI food analysis, calorie & macro tracking, water intake, workouts, and a Thai-language AI coach.  
-<sub>แอปนับแคลอรี่พร้อม AI Coach ภาษาไทย</sub>
+Cross-platform mobile app for AI food analysis, calorie &amp; macro tracking, water intake, workouts &amp; a Thai AI coach.  
+<sub>แอปนับแคลอรี่ วิเคราะห์อาหาร พร้อม AI Coach ภาษาไทย</sub>
 
 `Flutter` `Dart` `Firebase` `Firestore`
 
-[📂 View Repository](https://github.com/Suthipong25/Foodcal)
+[📂 View Repository →](https://github.com/Suthipong25/Foodcal)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚚 Perkin Logistics Dashboard
-Shipment, customs clearance, and fleet tracking for operations, CS, finance, and management.  
+Shipment, customs clearance, and fleet tracking dashboard built for operations, CS, finance, and management teams.  
 <sub>ระบบติดตามงานขนส่ง พิธีการศุลกากร และเที่ยวรถ</sub>
 
-`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Python`
+`Next.js` `PostgreSQL` `Supabase` `Python`
 
 <sub>🔒 Private · Internal Company System</sub>
 
@@ -121,11 +124,11 @@ Shipment, customs clearance, and fleet tracking for operations, CS, finance, and
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 Export & Import Oversea Cost
-Sea freight (FCL/LCL) and agent cost comparison. Extracts rate tables from PDFs, manages margin approvals, generates PDF quotations.  
-<sub>เปรียบเทียบค่าระวางเรือและต้นทุน Agent</sub>
+### 🚢 Export &amp; Import Oversea Cost
+Sea freight (FCL/LCL) and overseas agent cost comparison with AI PDF rate extraction, margin approvals &amp; PDF quotations.  
+<sub>เปรียบเทียบค่าระวางเรือและต้นทุน Agent ดึงราคาจาก PDF</sub>
 
-`Next.js` `TypeScript` `Supabase`
+`Next.js` `TypeScript` `Supabase` `AI PDF`
 
 <sub>🔒 Private · Internal Company System</sub>
 
@@ -133,10 +136,10 @@ Sea freight (FCL/LCL) and agent cost comparison. Extracts rate tables from PDFs,
 <td width="50%" valign="top">
 
 ### 🔎 Vehicle Cost Search
-Route and truck-type rate lookup, highlights the lowest carrier cost, calculates 10–30% margins, syncs Excel with SharePoint.  
-<sub>ค้นหาต้นทุนรถขนส่งตามเส้นทาง</sub>
+Route and truck-type rate lookup highlighting lowest carrier costs, 10–30% selling margin tiers &amp; Excel/SharePoint sync.  
+<sub>ค้นหาต้นทุนรถขนส่งตามเส้นทาง คำนวณ Margin 10–30%</sub>
 
-`React` `Vite` `Express` `PostgreSQL` `XLSX`
+`React` `Vite` `Express` `PostgreSQL`
 
 <sub>🔒 Private · Internal Company System</sub>
 
@@ -145,58 +148,62 @@ Route and truck-type rate lookup, highlights the lowest carrier cost, calculates
 </table>
 
 <details>
-<summary><b>➕ More projects</b></summary>
+<summary><strong>➕ More projects</strong> (Velora Hotel · Bistro Landing Page · CV2 ScanFace)</summary>
 <br/>
 
-- 🏨 **[Velora Hotel](https://github.com/Suthipong25/velorahotel)** — hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST API · `React` `Tailwind CSS` `Node.js` `Express`
-- 🍽️ **[Bistro Landing Page](https://github.com/Suthipong25/landing-page)** — responsive restaurant landing page with category filtering, review carousels, and contact form · `React` `Tailwind CSS` `Vite`
-- 👤 **CV2 ScanFace** — real-time face detection & recognition with Python, OpenCV, and a lightweight HTML/CSS interface · `Python` `OpenCV`
+- 🏨 **[Velora Hotel](https://github.com/Suthipong25/velorahotel)** — Hotel booking web app with React/Tailwind frontend and Node.js/Express REST API · `React` `Tailwind CSS` `Node.js` `Express`
+- 🍽️ **[Bistro Landing Page](https://github.com/Suthipong25/landing-page)** — Responsive restaurant landing page with category filtering, review carousels &amp; contact form · `React` `Tailwind CSS` `Vite`
+- 👤 **CV2 ScanFace** — Real-time face detection &amp; recognition with Python, OpenCV &amp; HTML/CSS · `Python` `OpenCV`
 
 </details>
 
----
+<br/>
 
 ## ⚙️ Skills & Tools
 
 <div align="center">
 
-**Languages**
-
+<sub><strong>LANGUAGES</strong></sub><br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=light" />
-  <img alt="Languages" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=light" />
+  <img alt="TypeScript, JavaScript, Python, Dart, Java, C#, PHP, HTML, CSS" src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Cdart%2Cjava%2Ccs%2Cphp%2Chtml%2Ccss&theme=light" />
 </picture>
 
-**Frontend & Mobile**
+<br/><br/>
 
+<sub><strong>FRONTEND &amp; MOBILE</strong></sub><br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=light" />
-  <img alt="Frontend & Mobile" src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=light" />
+  <img alt="Next.js, React, Flutter, Angular, Tailwind CSS, Vite" src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cflutter%2Cangular%2Ctailwind%2Cvite&theme=light" />
 </picture>
 
-**Backend & Databases**
+<br/><br/>
 
+<sub><strong>BACKEND &amp; DATABASES</strong></sub><br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=light" />
-  <img alt="Backend & Databases" src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=light" />
+  <img alt="Node.js, Express, .NET, PostgreSQL, Supabase, Firebase, MySQL, MongoDB" src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=light" />
 </picture>
 
-**Cloud, Tools & Vision**
+<br/><br/>
 
+<sub><strong>CLOUD, TOOLS &amp; VISION</strong></sub><br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=light" />
-  <img alt="Cloud, Tools & Vision" src="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=light" />
+  <img alt="Cloudflare, Docker, OpenCV, Git, GitHub, Figma, Postman, VS Code" src="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=light" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <sub>Also using: `Drizzle ORM` · `Expo / React Native` · `Google Gemini API` · `SQL / PLpgSQL` · `ExcelJS / XLSX` · `Trello`</sub>
 
 </div>
+
+<br/>
 
 ---
 
@@ -204,7 +211,7 @@ Route and truck-type rate lookup, highlights the lowest carrier cost, calculates
 
 ### 🤝 Let's build something useful together
 
-[![Email me](https://img.shields.io/badge/Say_hi-suthipong2003dos@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suthipong2003dos@gmail.com)
+[![Say hi](https://img.shields.io/badge/Say_Hi-suthipong2003dos@gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suthipong2003dos@gmail.com)
 
 <sub>Thanks for stopping by! · ขอบคุณที่แวะมาครับ 🙏</sub>
 
