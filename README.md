@@ -37,8 +37,8 @@
 
 ## 🚀 What I'm Doing Now
 
+- 🛍️ Building **[PriceLens](https://github.com/Suthipong25/PriceLens)** — a Thailand price comparison & shopping intelligence monorepo (**Next.js**, **Expo**, **Cloudflare Workers**, **Drizzle ORM**, **PostgreSQL**)
 - 🏗️ Building internal **logistics pricing & shipment tools** with **Next.js**, **PostgreSQL / Supabase**, and **Gemini AI**
-- 🔍 Exploring structured **PDF / slip extraction** to replace manual spreadsheet work
 - 🎯 Open to **Full-Stack**, **Frontend**, or **AI Application Developer** roles in Bangkok / Remote
 
 ---
@@ -73,6 +73,17 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🛍️ [PriceLens](https://github.com/Suthipong25/PriceLens)
+Smart shopping intelligence & price comparison monorepo for Thailand (Web, Expo Mobile, Cloudflare Workers API) with deterministic GTIN/EAN/MPN matching, historical price tracking & drop alerts.  
+<sub>แพลตฟอร์มเปรียบเทียบราคาสินค้า ติดตามประวัติราคา และแจ้งเตือนราคาตก</sub>
+
+`Next.js` `React Native` `Cloudflare Workers` `Drizzle ORM` `PostgreSQL`
+
+[📂 View Repository](https://github.com/Suthipong25/PriceLens)
+
+</td>
+<td width="50%" valign="top">
+
 ### 💰 [MoneyMate](https://github.com/Suthipong25/MoneyMate)
 Income & expense app that reads Thai bank slips and tax invoices with Gemini, catches duplicates, separates 7% VAT, exports Excel.  
 <sub>สแกนสลิปด้วย AI ตรวจสลิปซ้ำ ถอด VAT 7%</sub>
@@ -82,6 +93,8 @@ Income & expense app that reads Thai bank slips and tax invoices with Gemini, ca
 [📂 View Repository](https://github.com/Suthipong25/MoneyMate)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🥗 [Foodcal](https://github.com/Suthipong25/Foodcal)
@@ -93,8 +106,6 @@ Cross-platform mobile app for AI food analysis, calorie & macro tracking, water 
 [📂 View Repository](https://github.com/Suthipong25/Foodcal)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚚 Perkin Logistics Dashboard
@@ -106,6 +117,8 @@ Shipment, customs clearance, and fleet tracking for operations, CS, finance, and
 <sub>🔒 Private · Internal Company System</sub>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚢 Export & Import Oversea Cost
@@ -117,8 +130,6 @@ Sea freight (FCL/LCL) and agent cost comparison. Extracts rate tables from PDFs,
 <sub>🔒 Private · Internal Company System</sub>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔎 Vehicle Cost Search
@@ -130,16 +141,6 @@ Route and truck-type rate lookup, highlights the lowest carrier cost, calculates
 <sub>🔒 Private · Internal Company System</sub>
 
 </td>
-<td width="50%" valign="top">
-
-### 🏨 [Velora Hotel](https://github.com/Suthipong25/velorahotel)
-Hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST API.
-
-`React` `Tailwind CSS` `Node.js` `Express`
-
-[📂 View Repository](https://github.com/Suthipong25/velorahotel)
-
-</td>
 </tr>
 </table>
 
@@ -147,6 +148,7 @@ Hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST 
 <summary><b>➕ More projects</b></summary>
 <br/>
 
+- 🏨 **[Velora Hotel](https://github.com/Suthipong25/velorahotel)** — hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST API · `React` `Tailwind CSS` `Node.js` `Express`
 - 🍽️ **[Bistro Landing Page](https://github.com/Suthipong25/landing-page)** — responsive restaurant landing page with category filtering, review carousels, and contact form · `React` `Tailwind CSS` `Vite`
 - 👤 **CV2 ScanFace** — real-time face detection & recognition with Python, OpenCV, and a lightweight HTML/CSS interface · `Python` `OpenCV`
 
@@ -182,17 +184,17 @@ Hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST 
   <img alt="Backend & Databases" src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cdotnet%2Cpostgres%2Csupabase%2Cfirebase%2Cmysql%2Cmongodb&theme=light" />
 </picture>
 
-**Tools & Vision**
+**Cloud, Tools & Vision**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=opencv%2Cgit%2Cgithub%2Cdocker%2Cfigma%2Cpostman%2Cvscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=opencv%2Cgit%2Cgithub%2Cdocker%2Cfigma%2Cpostman%2Cvscode&theme=light" />
-  <img alt="Tools & Vision" src="https://skillicons.dev/icons?i=opencv%2Cgit%2Cgithub%2Cdocker%2Cfigma%2Cpostman%2Cvscode&theme=light" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=light" />
+  <img alt="Cloud, Tools & Vision" src="https://skillicons.dev/icons?i=cloudflare%2Cdocker%2Copencv%2Cgit%2Cgithub%2Cfigma%2Cpostman%2Cvscode&theme=light" />
 </picture>
 
 <br/>
 
-<sub>Also using: `Google Gemini API` · `SQL / PLpgSQL` · `ExcelJS / XLSX` · `Trello`</sub>
+<sub>Also using: `Drizzle ORM` · `Expo / React Native` · `Google Gemini API` · `SQL / PLpgSQL` · `ExcelJS / XLSX` · `Trello`</sub>
 
 </div>
 
