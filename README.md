@@ -73,50 +73,15 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚚 [Perkin Logistics Dashboard](https://github.com/Suthipong25/Perkin-Logistics-Dashboard)
-Shipment, customs clearance, and fleet tracking for operations, CS, finance, and management.  
-<sub>ระบบติดตามงานขนส่ง พิธีการศุลกากร และเที่ยวรถ</sub>
-
-`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Python`
-
-[🔗 Live Demo](https://perkin-logistics-dashboard-suthipongs-projects-2d06d15d.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
 ### 💰 [MoneyMate](https://github.com/Suthipong25/MoneyMate)
 Income & expense app that reads Thai bank slips and tax invoices with Gemini, catches duplicates, separates 7% VAT, exports Excel.  
 <sub>สแกนสลิปด้วย AI ตรวจสลิปซ้ำ ถอด VAT 7%</sub>
 
 `Next.js` `TypeScript` `Supabase` `Gemini API` `ExcelJS`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚢 [Export](https://github.com/Suthipong25/Export_Oversea_Cost) & [Import](https://github.com/Suthipong25/import_oversea_cost) Oversea Cost
-Sea freight (FCL/LCL) and agent cost comparison. Extracts rate tables from PDFs, manages margin approvals, generates PDF quotations.  
-<sub>เปรียบเทียบค่าระวางเรือและต้นทุน Agent</sub>
-
-`Next.js` `TypeScript` `Supabase`
-
-[🔗 Live Demo](https://exportoverseacost.vercel.app)
+[📂 View Repository](https://github.com/Suthipong25/MoneyMate)
 
 </td>
-<td width="50%" valign="top">
-
-### 🔎 [Vehicle Cost Search](https://github.com/Suthipong25/Cost_price_search_system)
-Route and truck-type rate lookup, highlights the lowest carrier cost, calculates 10–30% margins, syncs Excel with SharePoint.  
-<sub>ค้นหาต้นทุนรถขนส่งตามเส้นทาง</sub>
-
-`React` `Vite` `Express` `PostgreSQL` `XLSX`
-
-[🔗 Live Demo](https://costpricesearchsystem.vercel.app)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🥗 [Foodcal](https://github.com/Suthipong25/Foodcal)
@@ -125,6 +90,45 @@ Cross-platform mobile app for AI food analysis, calorie & macro tracking, water 
 
 `Flutter` `Dart` `Firebase` `Firestore`
 
+[📂 View Repository](https://github.com/Suthipong25/Foodcal)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 Perkin Logistics Dashboard
+Shipment, customs clearance, and fleet tracking for operations, CS, finance, and management.  
+<sub>ระบบติดตามงานขนส่ง พิธีการศุลกากร และเที่ยวรถ</sub>
+
+`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Python`
+
+<sub>🔒 Private · Internal Company System</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚢 Export & Import Oversea Cost
+Sea freight (FCL/LCL) and agent cost comparison. Extracts rate tables from PDFs, manages margin approvals, generates PDF quotations.  
+<sub>เปรียบเทียบค่าระวางเรือและต้นทุน Agent</sub>
+
+`Next.js` `TypeScript` `Supabase`
+
+<sub>🔒 Private · Internal Company System</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔎 Vehicle Cost Search
+Route and truck-type rate lookup, highlights the lowest carrier cost, calculates 10–30% margins, syncs Excel with SharePoint.  
+<sub>ค้นหาต้นทุนรถขนส่งตามเส้นทาง</sub>
+
+`React` `Vite` `Express` `PostgreSQL` `XLSX`
+
+<sub>🔒 Private · Internal Company System</sub>
+
 </td>
 <td width="50%" valign="top">
 
@@ -132,6 +136,8 @@ Cross-platform mobile app for AI food analysis, calorie & macro tracking, water 
 Hotel booking web app with a React/Tailwind frontend and a Node.js/Express REST API.
 
 `React` `Tailwind CSS` `Node.js` `Express`
+
+[📂 View Repository](https://github.com/Suthipong25/velorahotel)
 
 </td>
 </tr>
