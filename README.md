@@ -111,37 +111,37 @@ Cross-platform mobile app for AI food analysis, calorie &amp; macro tracking, wa
 </td>
 <td width="50%" valign="top">
 
-### 🚚 Perkin Logistics Dashboard
+### 🚚 [Perkin Logistics Dashboard](https://github.com/Suthipong25/Perkin-Logistics-Dashboard)
 Shipment, customs clearance, and fleet tracking dashboard built for operations, CS, finance, and management teams.  
 <sub>ระบบติดตามงานขนส่ง พิธีการศุลกากร และเที่ยวรถ</sub>
 
 `Next.js` `PostgreSQL` `Supabase` `Python`
 
-<sub>🔒 Private · Internal Company System</sub>
+[🔗 Live Demo](https://perkin-logistics-dashboard-suthipongs-projects-2d06d15d.vercel.app/) · [📂 Repo](https://github.com/Suthipong25/Perkin-Logistics-Dashboard)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🚢 Export &amp; Import Oversea Cost
+### 🚢 [Export](https://github.com/Suthipong25/Export_Oversea_Cost) &amp; [Import](https://github.com/Suthipong25/import_oversea_cost) Oversea Cost
 Sea freight (FCL/LCL) and overseas agent cost comparison with AI PDF rate extraction, margin approvals &amp; PDF quotations.  
 <sub>เปรียบเทียบค่าระวางเรือและต้นทุน Agent ดึงราคาจาก PDF</sub>
 
 `Next.js` `TypeScript` `Supabase` `AI PDF`
 
-<sub>🔒 Private · Internal Company System</sub>
+[🔗 Live (Export)](https://exportoverseacost.vercel.app) · [🔗 Live (Import)](https://importoverseacost.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔎 Vehicle Cost Search
+### 🔎 [Vehicle Cost Search](https://github.com/Suthipong25/Cost_price_search_system)
 Route and truck-type rate lookup highlighting lowest carrier costs, 10–30% selling margin tiers &amp; Excel/SharePoint sync.  
 <sub>ค้นหาต้นทุนรถขนส่งตามเส้นทาง คำนวณ Margin 10–30%</sub>
 
 `React` `Vite` `Express` `PostgreSQL`
 
-<sub>🔒 Private · Internal Company System</sub>
+[🔗 Live Demo](https://costpricesearchsystem.vercel.app) · [📂 Repo](https://github.com/Suthipong25/Cost_price_search_system)
 
 </td>
 </tr>
