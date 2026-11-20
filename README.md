@@ -117,7 +117,7 @@ Shipment, customs clearance, and fleet tracking dashboard built for operations, 
 
 `Next.js` `PostgreSQL` `Supabase` `Python`
 
-[🔗 Live Demo](https://perkin-logistics-dashboard-suthipongs-projects-2d06d15d.vercel.app/) · [📂 Repo](https://github.com/Suthipong25/Perkin-Logistics-Dashboard)
+ · [📂 Repo](https://github.com/Suthipong25/Perkin-Logistics-Dashboard)
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ Sea freight (FCL/LCL) and overseas agent cost comparison with AI PDF rate extrac
 
 `Next.js` `TypeScript` `Supabase` `AI PDF`
 
-[🔗 Live (Export)](https://exportoverseacost.vercel.app) · [🔗 Live (Import)](https://importoverseacost.vercel.app)
+· [🔗 Live (Import)](https://importoverseacost.vercel.app)
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +141,7 @@ Route and truck-type rate lookup highlighting lowest carrier costs, 10–30% sel
 
 `React` `Vite` `Express` `PostgreSQL`
 
-[🔗 Live Demo](https://costpricesearchsystem.vercel.app) · [📂 Repo](https://github.com/Suthipong25/Cost_price_search_system)
+ · [📂 Repo](https://github.com/Suthipong25/Cost_price_search_system)
 
 </td>
 </tr>
