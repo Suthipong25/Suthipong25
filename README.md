@@ -130,7 +130,6 @@ Sea freight (FCL/LCL) and overseas agent cost comparison with AI PDF rate extrac
 
 `Next.js` `TypeScript` `Supabase` `AI PDF`
 
-· [🔗 Live (Import)](https://importoverseacost.vercel.app)
 
 </td>
 <td width="50%" valign="top">
