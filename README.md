@@ -82,7 +82,7 @@ Thailand price comparison &amp; shopping intelligence monorepo with GTIN/EAN/MPN
 
 `Next.js` `Expo` `Cloudflare Workers` `PostgreSQL`
 
-[📂 View Repository →](https://github.com/Suthipong25/PriceLens)
+
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ Income &amp; expense SaaS that reads Thai bank slips and tax invoices with Gemin
 
 `Next.js` `TypeScript` `Supabase` `Gemini API`
 
-[📂 View Repository →](https://github.com/Suthipong25/MoneyMate)
+
 
 </td>
 </tr>
@@ -106,7 +106,6 @@ Cross-platform mobile app for AI food analysis, calorie &amp; macro tracking, wa
 
 `Flutter` `Dart` `Firebase` `Firestore`
 
-[📂 View Repository →](https://github.com/Suthipong25/Foodcal)
 
 </td>
 <td width="50%" valign="top">
@@ -117,8 +116,7 @@ Shipment, customs clearance, and fleet tracking dashboard built for operations, 
 
 `Next.js` `PostgreSQL` `Supabase` `Python`
 
- · [📂 Repo](https://github.com/Suthipong25/Perkin-Logistics-Dashboard)
-
+ 
 </td>
 </tr>
 <tr>
@@ -140,7 +138,7 @@ Route and truck-type rate lookup highlighting lowest carrier costs, 10–30% sel
 
 `React` `Vite` `Express` `PostgreSQL`
 
- · [📂 Repo](https://github.com/Suthipong25/Cost_price_search_system)
+
 
 </td>
 </tr>
